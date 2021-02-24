@@ -6,4 +6,3 @@
 - ⚡ I want to become a fullstack developer
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/guiraldellis/)
-
